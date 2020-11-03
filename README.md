@@ -1,1 +1,1 @@
-# LatihanPython1
+# Latihan Python 1
